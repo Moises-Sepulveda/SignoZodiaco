@@ -1,0 +1,6 @@
+C:\Users\Moisés Sepúlveda\source\repos\SignoZodiaco\SignoZodiaco\bin\Debug\SignoZodiaco.exe
+C:\Users\Moisés Sepúlveda\source\repos\SignoZodiaco\SignoZodiaco\bin\Debug\SignoZodiaco.pdb
+C:\Users\Moisés Sepúlveda\source\repos\SignoZodiaco\SignoZodiaco\obj\Debug\SignoZodiaco.csprojAssemblyReference.cache
+C:\Users\Moisés Sepúlveda\source\repos\SignoZodiaco\SignoZodiaco\obj\Debug\SignoZodiaco.csproj.CoreCompileInputs.cache
+C:\Users\Moisés Sepúlveda\source\repos\SignoZodiaco\SignoZodiaco\obj\Debug\SignoZodiaco.exe
+C:\Users\Moisés Sepúlveda\source\repos\SignoZodiaco\SignoZodiaco\obj\Debug\SignoZodiaco.pdb
